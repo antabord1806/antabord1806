@@ -11,8 +11,6 @@
 
 🚀 Currently I am a student at 42Lisboa.
 
-"apredes a bem ou aprendes a mal, aprendes nontheless"
-
 ---
 
 ## 🧩 42 Lisboa Progress
@@ -94,6 +92,4 @@
 
 ---
 
-<p align="center">
-  “Code is like humor — when you have to explain it, it’s bad.” 😄
 </p>
