@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hello, I'm André</h1>
 
 <p align="center">
@@ -67,4 +68,43 @@
   <tr>
     <td>🧠 Philosophers</td>
     <td>Problema dos filósofos — threads, mutexes e sincronização.</td>
-    <td><a href="https://github.com/antabord
+    <td><a href="https://github.com/antabord1806/42lisboa-philosophers" target="_blank">Ver Repositório</a></td>
+    <td>⏳ Por iniciar</td>
+  </tr>
+
+  <tr>
+    <td>💻 Minishell</td>
+    <td>Criação de um interpretador de comandos tipo bash.</td>
+    <td><a href="https://github.com/antabord1806/42lisboa-minishell" target="_blank">Ver Repositório</a></td>
+    <td>⏳ Por iniciar</td>
+  </tr>
+
+</table>
+
+<div style="height: 100px;"></div>
+
+---
+
+## 🛠️ Tech Stack
+
+🖥️ **Languages:** C, Bash  
+🐧 **Environment:** Linux, Makefile  
+📚 **Tools:** Git, GCC, Vim  
+
+<div style="height: 80px;"></div>
+
+---
+
+## 📫 Contact
+
+📧 Email — [antabord1806@gmail.com](mailto:antabord1806@gmail.com)  
+💼 LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
+💻 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
+
+<div style="height: 60px;"></div>
+
+---
+
+<p align="center">
+  “Code is like humor — when you have to explain it, it’s bad.” 😄
+</p>
