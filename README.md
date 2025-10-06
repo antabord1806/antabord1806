@@ -91,7 +91,7 @@
 ## 📫 Contact
 
 📧 Email — [antabord1806@gmail.com](mailto:antabord1806@gmail.com)  
-💼 LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
+💼 LinkedIn — [linkedin.com/in/antabord1806](www.linkedin.com/in/andré-taborda1806)  
 💻 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
 
 ---
