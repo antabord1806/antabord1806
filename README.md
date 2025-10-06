@@ -11,8 +11,6 @@
 
 ## 🎓 About Me
 
-💡 I’m passionate about understanding how things work under the hood — from memory management to algorithms.  
-⚙️ Focused on writing clean, efficient, and scalable C code.  
 🚀 Always learning and improving through hands-on projects at 42.
 
 <div style="height: 80px;"></div>
