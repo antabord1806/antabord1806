@@ -4,11 +4,21 @@
   Welcome to my GitHub profile!  
   I'm a student at <b>42 Lisboa</b> 🇵🇹, currently learning low-level programming, C, and system architecture.  
 </p>
-<br><br><br>
+
+<div style="height: 60px;"></div>
+
+---
+
 ## 🎓 About Me
 
-🚀 Currently I am a student at 42Lisboa.
-<br><br><br>
+💡 I’m passionate about understanding how things work under the hood — from memory management to algorithms.  
+⚙️ Focused on writing clean, efficient, and scalable C code.  
+🚀 Always learning and improving through hands-on projects at 42.
+
+<div style="height: 80px;"></div>
+
+---
+
 ## 🧩 42 Lisboa Progress
 
 <table>
@@ -57,33 +67,4 @@
   <tr>
     <td>🧠 Philosophers</td>
     <td>Problema dos filósofos — threads, mutexes e sincronização.</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-philosophers" target="_blank">Ver Repositório</a></td>
-    <td>⏳ Por iniciar</td>
-  </tr>
-
-  <tr>
-    <td>💻 Minishell</td>
-    <td>Criação de um interpretador de comandos tipo bash.</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-minishell" target="_blank">Ver Repositório</a></td>
-    <td>⏳ Por iniciar</td>
-  </tr>
-
-</table>
-<br><br><br><br><br>
-## 🛠️ Tech Stack
-
-🖥️ **Languages:** C, Bash  
-🐧 **Environment:** Linux, Makefile  
-📚 **Tools:** Git, GCC, Vim  
-
----
-
-## 📫 Contact
-
-📧 Email — [antabord1806@gmail.com](mailto:antabord1806@gmail.com)  
-💼 LinkedIn — [linkedin.com/in/antabord1806](www.linkedin.com/in/andré-taborda1806)  
-💻 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
-
----
-
-</p>
+    <td><a href="https://github.com/antabord
