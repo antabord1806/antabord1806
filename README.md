@@ -31,7 +31,7 @@
   <tr>
     <td>🧱 Libft</td>
     <td>Biblioteca base em C recriando funções da Standard Library.</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-libft" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/libft" target="_blank">Ver Repositório</a></td>
     <td>✅ Concluído – 125%</td>
   </tr>
 
@@ -45,14 +45,14 @@
   <tr>
     <td>🖨️ Printf</td>
     <td>Reimplementação da função printf em C com parsing e formatação.</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-printf" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/printf" target="_blank">Ver Repositório</a></td>
     <td>🔄 Em progresso</td>
   </tr>
 
   <tr>
     <td>🔁 Push Swap</td>
     <td>Algoritmos de ordenação com operações limitadas e estrutura de pilhas.</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-push_swap" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/push_swap" target="_blank">Ver Repositório</a></td>
     <td>🔄 Em progresso</td>
   </tr>
 
