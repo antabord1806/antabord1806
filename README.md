@@ -46,7 +46,7 @@
     <td>🖨️ Printf</td>
     <td>Reimplementação da função printf em C com parsing e formatação.</td>
     <td><a href="https://github.com/antabord1806/printf" target="_blank">Ver Repositório</a></td>
-    <td>🔄 Em progresso</td>
+    <td>✅ Concluído - 100%</td>
   </tr>
 
   <tr>
