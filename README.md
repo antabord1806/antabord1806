@@ -8,7 +8,6 @@
 
 <div style="height: 60px;"></div>
 
----
 
 ## 🎓 About Me
 
@@ -18,7 +17,6 @@
 
 <div style="height: 80px;"></div>
 
----
 
 ## 🧩 42 Lisboa Progress
 
@@ -83,17 +81,14 @@
 
 <div style="height: 100px;"></div>
 
----
 
 ## 🛠️ Tech Stack
 
 🖥️ **Languages:** C, Bash  
-🐧 **Environment:** Linux, Makefile  
-📚 **Tools:** Git, GCC, Vim  
+🐧 **Environment:** Linux
 
 <div style="height: 80px;"></div>
 
----
 
 ## 📫 Contact
 
