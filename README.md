@@ -5,13 +5,15 @@
   I'm a student at <b>42 Lisboa</b> 🇵🇹, currently learning low-level programming, C, and system architecture.  
 </p>
 
----
+
+
 
 ## 🎓 About Me
 
 🚀 Currently I am a student at 42Lisboa.
 
----
+
+
 
 ## 🧩 42 Lisboa Progress
 
@@ -74,7 +76,9 @@
 
 </table>
 
----
+
+
+
 
 ## 🛠️ Tech Stack
 
