@@ -4,11 +4,11 @@
   Welcome to my GitHub profile!  
   I'm a student at <b>42 Lisboa</b> 🇵🇹, currently learning low-level programming, C, and system architecture.  
 </p>
-<br><br><br><br><br>
+<br><br><br>
 ## 🎓 About Me
 
 🚀 Currently I am a student at 42Lisboa.
-<br><br><br><br><br>
+<br><br><br>
 ## 🧩 42 Lisboa Progress
 
 <table>
