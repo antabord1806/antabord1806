@@ -1,19 +1,12 @@
 
-<h1 align="center">👋 Hello, I'm André</h1>
+<h1 align="center">I'm André</h1>
 
-<p align="center">
-  Welcome to my GitHub profile!  
-  I'm a student at <b>42 Lisboa</b> 🇵🇹, currently learning low-level programming, C, and system architecture.  
+<p align="center">  
+  I'm a student at <b>42 Lisboa</b> 🇵🇹, and this is my progess so far 
 </p>
 
 <div style="height: 60px;"></div>
 
-
-## 🎓 About Me
-
-🚀 Always learning and improving through hands-on projects at 42.
-
-<div style="height: 80px;"></div>
 
 
 ## 🧩 42 Lisboa Progress
