@@ -70,7 +70,7 @@
   </tr>
 
   <tr>
-    <td></td> Minishell</td>
+    <td> Minishell</td>
     <td>Criação de um interpretador de comandos tipo bash.</td>
     <td><a href="https://github.com/antabord1806/42lisboa-minishell" target="_blank">Ver Repositório</a></td>
     <td>⏳ In progress</td>
