@@ -1,15 +1,15 @@
 
-<h1 align="center">I'm André</h1>
+<h1 align="center">Hello my name is André</h1>
 
 <p align="center">  
-  I'm a student at <b>42 Lisboa</b> 🇵🇹, and this is my progess so far 
+  I'm a student at <b>42 Lisboa</b>, and this is my progess so far 
 </p>
 
 <div style="height: 60px;"></div>
 
 
 
-## 🧩 42 Progress
+## 42 Progress
 
 <table>
   <tr>
@@ -83,17 +83,17 @@
 
 ## Tech Stack
 
-🖥️ **Languages:** C, Bash  
-🐧 **Environment:** Linux
+**Languages:** C, Bash  
+**Environment:** Linux
 
 <div style="height: 80px;"></div>
 
 
-## 📫 Contact
+## Contact
 
-📧 Email — [antabord1806@gmail.com](mailto:antabord1806@gmail.com)  
-💼 LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
-💻 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
+Email — [antabord1806@gmail.com](mailto:antabord1806@gmail.com)  
+LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
+GitHub — [github.com/antabord1806](https://github.com/antabord1806)
 
 <div style="height: 60px;"></div>
 
