@@ -9,7 +9,7 @@
 
 
 
-## 🧩 42 Lisboa Progress
+## 🧩 42 Progress
 
 <table>
   <tr>
@@ -20,52 +20,60 @@
   </tr>
 
   <tr>
-    <td>🧱 Libft</td>
-    <td>Biblioteca base em C recriando funções da Standard Library.</td>
+    <td> Libft</td>
+    <td>Criation of a C library</td>
     <td><a href="https://github.com/antabord1806/libft" target="_blank">Ver Repositório</a></td>
-    <td>✅ Concluído – 125%</td>
+    <td>✅ DONE – 125%</td>
   </tr>
 
   <tr>
-    <td>📜 Get Next Line</td>
-    <td>Leitura de ficheiros linha a linha de forma otimizada.</td>
+    <td>Get Next Line</td>
+    <td>Creating a program to read a txt file line by line</td>
     <td><a href="https://github.com/antabord1806/42lisboa-get_next_line" target="_blank">Ver Repositório</a></td>
-    <td>✅ Concluído – 125%</td>
+    <td>✅ DONE – 125%</td>
   </tr>
 
   <tr>
-    <td>🖨️ Printf</td>
-    <td>Reimplementação da função printf em C com parsing e formatação.</td>
+    <td> Printf</td>
+    <td>Repliacte the beahvior of the printf C function</td>
     <td><a href="https://github.com/antabord1806/printf" target="_blank">Ver Repositório</a></td>
-    <td>✅ Concluído - 100%</td>
+    <td>✅ DONE - 100%</td>
   </tr>
 
   <tr>
-    <td>🔁 Push Swap</td>
-    <td>Algoritmos de ordenação com operações limitadas e estrutura de pilhas.</td>
+    <td>Push Swap</td>
+    <td>Aplying an algoritm to sort 2 piles</td>
     <td><a href="https://github.com/antabord1806/push_swap" target="_blank">Ver Repositório</a></td>
-    <td>🔄 Em progresso</td>
+    <td>✅ DONE - 92%</td>
   </tr>
 
   <tr>
-    <td>🎮 So Long</td>
-    <td>Mini jogo 2D utilizando MiniLibX.</td>
+    <td>So Long</td>
+    <td>Using a graphical library to create a 2d game</td>
     <td><a href="https://github.com/antabord1806/42lisboa-so_long" target="_blank">Ver Repositório</a></td>
-    <td>🔄 Em progresso</td>
+    <td>✅ DONE - 125%</td>
+  </tr>
+
+
+  <tr>
+    <td>Pipex</td>
+    <td>Introductions to pipes and redirections</td>
+    <td><a href="https://github.com/antabord1806/42lisboa-so_long" target="_blank">Ver Repositório</a></td>
+    <td>✅ DONE - 125%</td>
   </tr>
 
   <tr>
-    <td>🧠 Philosophers</td>
-    <td>Problema dos filósofos — threads, mutexes e sincronização.</td>
+    <td>Philosophers</td>
+    <td>Undertsnding and using multithreading and multiproessing</td>
     <td><a href="https://github.com/antabord1806/42lisboa-philosophers" target="_blank">Ver Repositório</a></td>
-    <td>⏳ Por iniciar</td>
+    <td>✅ DONE - 100%</td>
   </tr>
 
   <tr>
     <td>💻 Minishell</td>
     <td>Criação de um interpretador de comandos tipo bash.</td>
     <td><a href="https://github.com/antabord1806/42lisboa-minishell" target="_blank">Ver Repositório</a></td>
-    <td>⏳ Por iniciar</td>
+    <td>⏳ In progress</td>
   </tr>
 
 </table>
@@ -73,7 +81,7 @@
 <div style="height: 100px;"></div>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 🖥️ **Languages:** C, Bash  
 🐧 **Environment:** Linux
