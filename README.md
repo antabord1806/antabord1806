@@ -50,7 +50,7 @@
   <tr>
     <td>So Long</td>
     <td>Using a graphical library to create a 2d game</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-so_long" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/so_long" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 125%</td>
   </tr>
 
@@ -58,21 +58,21 @@
   <tr>
     <td>Pipex</td>
     <td>Introductions to pipes and redirections</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-so_long" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/pipex" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 125%</td>
   </tr>
 
   <tr>
     <td>Philosophers</td>
     <td>Undertsnding multithreading and multiproessing</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-philosophers" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/philosophers" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 100%</td>
   </tr>
 
   <tr>
     <td> Minishell</td>
     <td>Criação de um interpretador de comandos tipo bash.</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-minishell" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/minishell" target="_blank">Ver Repositório</a></td>
     <td>⏳ In progress</td>
   </tr>
 
