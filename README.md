@@ -29,7 +29,7 @@
   <tr>
     <td>Get Next Line</td>
     <td>Creating a program to read a txt file line by line</td>
-    <td><a href="https://github.com/antabord1806/42lisboa-get_next_line" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/antabord1806/get_next_line" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE – 125%</td>
   </tr>
 
