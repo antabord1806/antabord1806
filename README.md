@@ -11,7 +11,7 @@
 
 ## 42 Progress
 
-<table>
+<table align="center>
   <tr>
     <th>Projeto</th>
     <th>Descrição</th>
