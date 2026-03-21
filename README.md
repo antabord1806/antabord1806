@@ -1,7 +1,7 @@
 
 <h1 align="left">Hello my name is André</h1>
 
-<div align="right">  
+<div align="left">  
   Studying at 42Lisboa 
 </div>
 
