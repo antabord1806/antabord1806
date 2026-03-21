@@ -1,11 +1,11 @@
 
 <h1 align="center">Hello my name is André</h1>
 
-<p align="left">  
-  I'm a student at <b>42 Lisboa</b>, and this is my progess so far 
+<p align="center">  
+  Studying at 42Lisboa 
 </p>
 
-
+---
 
 ## 42 Progress
 
@@ -103,7 +103,7 @@
 
 ## Contact
 
-Email — [antabord1806@gmail.com](mailto:antabord1806@gmail.com)  
+Email — [aftg123@gmail.com](mailto:aftg123@gmail.com)  
 LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
 
