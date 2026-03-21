@@ -71,9 +71,16 @@
 
   <tr>
     <td> Minishell</td>
-    <td>Criação de um interpretador de comandos tipo bash.</td>
-    <td><a href="https://github.com/antabord1806/minishell" target="_blank">Ver Repositório</a></td>
-    <td>⏳ In progress</td>
+    <td>Create simple shell</td>
+    <td><a href="https://github.com/hugo-miguel07/minishell.git" target="_blank">Ver Repositório</a></td>
+    <td>✅ DONE - 95%</td>
+  </tr>
+
+  <tr>
+    <td> CPPs</td>
+    <td>Introduction to object oriented programming</td>
+    <td><a href="https://github.com/antabord1806/CPP-s.git" target="_blank">Ver Repositório</a></td>
+    <td>⏳ IN PROGRESS</td>
   </tr>
 
 </table>
@@ -81,9 +88,9 @@
 <div style="height: 100px;"></div>
 
 
-## Tech Stack
+## Skills
 
-**Languages:** C, Bash  
+**Languages:** C, C++, Bash  
 **Environment:** Linux
 
 <div style="height: 80px;"></div>
