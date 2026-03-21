@@ -1,9 +1,9 @@
 
 <h1 align="left">Hello my name is André</h1>
 
-<div align="left">  
+<p>  
   Studying at 42Lisboa 
-</div>
+</p>
 
 ## 42 Progress
 
