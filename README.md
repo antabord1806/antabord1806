@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello my name is André</h1>
+## Hello my name is André
 
 <p>  
   Studying at 42Lisboa 
