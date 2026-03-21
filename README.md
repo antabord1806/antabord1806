@@ -15,7 +15,6 @@
   <tr>
     <th>Projeto</th>
     <th>Descrição</th>
-    <th>Repositório</th>
     <th>Estado / Nota</th>
   </tr>
 
@@ -26,59 +25,51 @@
   </tr>
 
   <tr>
-    <td>Get Next Line</td>
+    <td><a href="https://github.com/antabord1806/get_next_line" target="_blank">Get Next Line</a></td>
     <td>Creating a program to read a txt file line by line</td>
-    <td><a href="https://github.com/antabord1806/get_next_line" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE – 125%</td>
   </tr>
 
   <tr>
-    <td> Printf</td>
+    <td><a href="https://github.com/antabord1806/printf" target="_blank">Printf</a></td>
     <td>Repliacte the beahvior of the printf C function</td>
-    <td><a href="https://github.com/antabord1806/printf" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 100%</td>
   </tr>
 
   <tr>
-    <td>Push Swap</td>
+    <td><a href="https://github.com/antabord1806/push_swap" target="_blank">Push Swap</a></td>
     <td>Aplying an algoritm to sort 2 piles</td>
-    <td><a href="https://github.com/antabord1806/push_swap" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 92%</td>
   </tr>
 
   <tr>
-    <td>So Long</td>
+    <td><a href="https://github.com/antabord1806/so_long" target="_blank">So Long</a></td>
     <td>Using a graphical library to create a 2d game</td>
-    <td><a href="https://github.com/antabord1806/so_long" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 125%</td>
   </tr>
 
 
   <tr>
-    <td>Pipex</td>
+    <td><a href="https://github.com/antabord1806/pipex" target="_blank">Pipex</a></td>
     <td>Introductions to pipes and redirections</td>
-    <td><a href="https://github.com/antabord1806/pipex" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 125%</td>
   </tr>
 
   <tr>
-    <td>Philosophers</td>
+    <td><a href="https://github.com/antabord1806/philosophers" target="_blank">Philosophers</a></td>
     <td>Undertsnding multithreading and multiproessing</td>
-    <td><a href="https://github.com/antabord1806/philosophers" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 100%</td>
   </tr>
 
   <tr>
-    <td> Minishell</td>
+    <td><a href="https://github.com/hugo-miguel07/minishell.git" target="_blank">Minishell</a></td>
     <td>Create simple shell</td>
-    <td><a href="https://github.com/hugo-miguel07/minishell.git" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE - 95%</td>
   </tr>
 
   <tr>
-    <td> CPPs</td>
+    <td><a href="https://github.com/antabord1806/CPP-s.git" target="_blank">CPPs</a></td>
     <td>Introduction to object oriented programming</td>
-    <td><a href="https://github.com/antabord1806/CPP-s.git" target="_blank">Ver Repositório</a></td>
     <td>⏳ IN PROGRESS</td>
   </tr>
 
