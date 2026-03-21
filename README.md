@@ -1,5 +1,5 @@
 
-## Hello my name is André
+# Hello my name is André
 
 <p>  
   Studying at 42Lisboa 
@@ -7,7 +7,7 @@
 
 ---
 
-# 42 Progress
+## 42 Progress
 
 <table align="center">
   <tr>
@@ -92,14 +92,14 @@
 
 ---
 
-# Skills
+## Skills
 
 **Languages:** C, C++, Bash  
 **Environment:** Linux
 
 ---
 
-# Contact
+## Contact me
 
 Email — [aftg123@gmail.com](mailto:aftg123@gmail.com)  
 LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
