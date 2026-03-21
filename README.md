@@ -20,9 +20,8 @@
   </tr>
 
   <tr>
-    <td> Libft</td>
+    <td><a href="https://github.com/antabord1806/libft" target="_blank">Libft</a></td>
     <td>Criation of a C library</td>
-    <td><a href="https://github.com/antabord1806/libft" target="_blank">Ver Repositório</a></td>
     <td>✅ DONE – 125%</td>
   </tr>
 
