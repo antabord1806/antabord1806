@@ -5,7 +5,7 @@
   I'm a student at <b>42 Lisboa</b>, and this is my progess so far 
 </p>
 
-<div style="height: 60px;"></div>
+<div style="height: 100px;"></div>
 
 
 
