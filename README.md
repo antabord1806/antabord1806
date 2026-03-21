@@ -88,8 +88,6 @@
 
 </table>
 
-<div style="height: 100px;"></div>
-
 
 ## Skills
 
