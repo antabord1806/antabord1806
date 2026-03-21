@@ -15,21 +15,31 @@
   <tr>
     <th>Projeto</th>
     <th>Descrição</th>
+    <th>Language</th>
     <th>Estado / Nota</th>
   </tr>
 
   <tr>
     <td><a href="https://github.com/antabord1806/libft" target="_blank">Libft</a></td>
-    <td>Criation of a C library</td>
+    <td>Criation of a costum C library</td>
+    <td>C</td>
     <td>✅ DONE – 125%</td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/antabord1806/get_next_line" target="_blank">Get Next Line</a></td>
     <td>Creating a program to read a txt file line by line</td>
+    <td>C</td>
     <td>✅ DONE – 125%</td>
   </tr>
-
+  
+  <tr>
+    <td>Born2BeRoot</td>
+    <td>Introduction to virtual machines</td>
+    <td>Shell</td>
+    <td>✅ DONE – 113%</td>
+  </tr>
+  
   <tr>
     <td><a href="https://github.com/antabord1806/printf" target="_blank">Printf</a></td>
     <td>Repliacte the beahvior of the printf C function</td>
