@@ -13,10 +13,10 @@
 
 <table align="center">
   <tr>
-    <th>Projeto</th>
-    <th>Descrição</th>
+    <th>Project</th>
+    <th>Description</th>
     <th>Language</th>
-    <th>Estado / Nota</th>
+    <th>Progress / State</th>
   </tr>
 
   <tr>
