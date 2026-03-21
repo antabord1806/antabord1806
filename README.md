@@ -5,8 +5,6 @@
   Studying at 42Lisboa 
 </p>
 
----
-
 ## 42 Progress
 
 <table align="center">
@@ -90,14 +88,10 @@
 
 </table>
 
----
-
 ## Skills
 
 **Languages:** C, C++, Bash  
 **Environment:** Linux
-
----
 
 ## Contact me
 
@@ -105,10 +99,3 @@ Email — [aftg123@gmail.com](mailto:aftg123@gmail.com)
 LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
 
-<div style="height: 60px;"></div>
-
----
-
-<p align="center">
-
-</p>
