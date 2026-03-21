@@ -1,11 +1,9 @@
 
 <h1 align="center">Hello my name is André</h1>
 
-<p align="center">  
+<p align="left">  
   I'm a student at <b>42 Lisboa</b>, and this is my progess so far 
 </p>
-
-<div style="height: 100px;"></div>
 
 
 
@@ -35,7 +33,7 @@
   
   <tr>
     <td>Born2BeRoot</td>
-    <td>Introduction to virtual machines</td>
+    <td>Introduction to virtual machines and system administration</td>
     <td>Shell</td>
     <td>✅ DONE – 113%</td>
   </tr>
@@ -49,7 +47,7 @@
 
   <tr>
     <td><a href="https://github.com/antabord1806/push_swap" target="_blank">Push Swap</a></td>
-    <td>Aplying an algoritm to sort 2 piles</td>
+    <td>Understanding and apllying a sorting algoritm</td>
     <td>C</td>
     <td>✅ DONE - 92%</td>
   </tr>
