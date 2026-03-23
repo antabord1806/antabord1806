@@ -93,8 +93,3 @@
 **Languages:** C, C++, Bash  
 **Environment:** Linux
 
-## Contact me
-
-Email — [aftg123@gmail.com](mailto:aftg123@gmail.com)   
-GitHub — [github.com/antabord1806](https://github.com/antabord1806)
-
