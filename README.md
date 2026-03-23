@@ -95,7 +95,6 @@
 
 ## Contact me
 
-Email — [aftg123@gmail.com](mailto:aftg123@gmail.com)  
-LinkedIn — [linkedin.com/in/antabord1806](https://www.linkedin.com/in/antabord1806)  
+Email — [aftg123@gmail.com](mailto:aftg123@gmail.com)   
 GitHub — [github.com/antabord1806](https://github.com/antabord1806)
 
